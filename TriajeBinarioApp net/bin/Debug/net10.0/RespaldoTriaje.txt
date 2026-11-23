@@ -1,0 +1,10 @@
+==============================================
+      RESPALDO DE PACIENTES - TRIAJE MÉDICO   
+      Fecha: 17/11/2026 4:32:39 p. m.                  
+==============================================
+[Riesgo: 15] María Fernanda Ruiz (CC: 10203040) - Síntoma: Fiebre moderada
+[Riesgo: 25] Ana Lucía Gómez (CC: 52418963) - Síntoma: Esguince de tobillo
+[Riesgo: 35] leonardo (CC: 21944) - Síntoma: dolor de cabeza
+[Riesgo: 50] Carlos Mendoza (CC: 10984512) - Síntoma: Dolor torácico leve
+[Riesgo: 80] Jorge Ramírez (CC: 80147258) - Síntoma: Dificultad respiratoria
+[Riesgo: 95] Luis Eduardo Torres (CC: 79456123) - Síntoma: Trauma craneoencefálico

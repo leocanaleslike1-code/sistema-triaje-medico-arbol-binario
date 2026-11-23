@@ -1,0 +1,16 @@
+C:\Users\telec\source\repos\TriajeBinarioApp\bin\Debug\net10.0\TriajeBinarioApp.exe
+C:\Users\telec\source\repos\TriajeBinarioApp\bin\Debug\net10.0\TriajeBinarioApp.deps.json
+C:\Users\telec\source\repos\TriajeBinarioApp\bin\Debug\net10.0\TriajeBinarioApp.runtimeconfig.json
+C:\Users\telec\source\repos\TriajeBinarioApp\bin\Debug\net10.0\TriajeBinarioApp.runtimeconfig.dev.json
+C:\Users\telec\source\repos\TriajeBinarioApp\bin\Debug\net10.0\TriajeBinarioApp.dll
+C:\Users\telec\source\repos\TriajeBinarioApp\bin\Debug\net10.0\TriajeBinarioApp.pdb
+C:\Users\telec\source\repos\TriajeBinarioApp\obj\Debug\net10.0\TriajeBinarioApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\telec\source\repos\TriajeBinarioApp\obj\Debug\net10.0\TriajeBinarioApp.AssemblyInfoInputs.cache
+C:\Users\telec\source\repos\TriajeBinarioApp\obj\Debug\net10.0\TriajeBinarioApp.AssemblyInfo.cs
+C:\Users\telec\source\repos\TriajeBinarioApp\obj\Debug\net10.0\TriajeBinarioApp.csproj.CoreCompileInputs.cache
+C:\Users\telec\source\repos\TriajeBinarioApp\obj\Debug\net10.0\TriajeBinarioApp.dll
+C:\Users\telec\source\repos\TriajeBinarioApp\obj\Debug\net10.0\refint\TriajeBinarioApp.dll
+C:\Users\telec\source\repos\TriajeBinarioApp\obj\Debug\net10.0\TriajeBinarioApp.pdb
+C:\Users\telec\source\repos\TriajeBinarioApp\obj\Debug\net10.0\TriajeBinarioApp.genruntimeconfig.cache
+C:\Users\telec\source\repos\TriajeBinarioApp\obj\Debug\net10.0\ref\TriajeBinarioApp.dll
+C:\Users\telec\source\repos\TriajeBinarioApp\obj\Debug\net10.0\TriajeBi.9541809D.Up2Date
