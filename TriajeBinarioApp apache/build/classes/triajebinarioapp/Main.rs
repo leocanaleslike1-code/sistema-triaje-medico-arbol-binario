@@ -1,0 +1,1 @@
+TriajeBinarioApp.Main

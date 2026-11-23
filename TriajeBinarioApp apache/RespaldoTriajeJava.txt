@@ -1,0 +1,8 @@
+==============================================
+      RESPALDO DE PACIENTES - TIAJE MEDICO    
+==============================================
+[Riesgo: 15] Maria Fernanda Ruiz (CC: 10203040) - Sintoma: Fiebre moderada
+[Riesgo: 25] Ana Lucia Gomez (CC: 52418963) - Sintoma: Esguince de tobillo
+[Riesgo: 50] Carlos Mendoza (CC: 10984512) - Sintoma: Dolor toracico leve
+[Riesgo: 80] Jorge Ramirez (CC: 80147258) - Sintoma: Dificultad respiratoria
+[Riesgo: 95] Luis Eduardo Torres (CC: 79456123) - Sintoma: Trauma craneoencefalico
