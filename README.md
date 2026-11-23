@@ -61,4 +61,4 @@ El repositorio contiene dos implementaciones completas:
 ### Instrucciones de Ejecucion
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+   git clone https://github.com/TU_USUARIO/sistema-triaje-medico-arbol-binario.git
